@@ -2,7 +2,7 @@
 
 <h1>Calculator JS</h1>
 <h2>Description</h2>
-<p>Free Code Camp project of a responsive Javascript Calculator.<br/><br/>
+<p>Free Code Camp project of a responsive Javascript Calculator.<br/>
 Users can use different buttons to evaluate calculations.</p>
 <h2>Technologies used</h2>
 
